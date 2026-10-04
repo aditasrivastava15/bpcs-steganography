@@ -1,6 +1,6 @@
 # BPCS Steganography
 
-Bit-Plane Complexity Segmentation (BPCS) steganography rebuilt from the undergraduate capstone *Steganography Using Bit-Plane Complexity Segmentation Technique* (Adita Srivastava, 14BCB0018).
+Bit-Plane Complexity Segmentation (BPCS) steganography  *Steganography Using Bit-Plane Complexity Segmentation Technique* (Adita Srivastava, 14BCB0018).
 
 Noise-like 8×8 regions on Canonical Gray Coded bit-planes are replaced with secret data. Typical hiding capacity on a 24-bit color image is around 40–50%, much higher than LSB methods (~5–15%).
 
