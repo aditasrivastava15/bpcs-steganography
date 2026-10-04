@@ -1,0 +1,9 @@
+This is a secret message for BPCS steganography.
+
+Bit-Plane Complexity Segmentation hides data in noise-like 8x8 regions
+of an image's Canonical Gray Coded bit planes. Humans cannot perceive
+shape information in those complex binary patterns, so a large payload
+can be embedded with little visible distortion.
+
+Original capstone: Steganography Using Bit-Plane Complexity Segmentation
+Technique — Adita Srivastava (14BCB0018).
