@@ -1,4 +1,4 @@
-"""Encode/decode roundtrips for the BPCS capstone implementation."""
+"""Encode/decode roundtrips for the BPCS implementation."""
 
 from pathlib import Path
 import sys

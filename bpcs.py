@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """BPCS steganography CLI.
 
-Examples (from the original capstone):
+Examples:
   python bpcs.py encode -i files/vessel.png -m files/message.txt -o stegg/encoded.png
   python bpcs.py decode -i stegg/encoded.png -a 0.45 -o stegg/message_decoded.txt
   python bpcs.py capacity -i files/vessel.png -a 0.45
