@@ -2,7 +2,7 @@
 
 A picture can carry a secret.
 
-Not in a lock on the file, and not in text nobody can read — **inside the pixels**. This tool hides a message or any file in the noisy corners of an image. You still see a normal photo. Someone scrolling past should not notice anything was added.
+Not in a lock on the file, and not in text nobody can read , **inside the pixels**. This tool hides a message or any file in the noisy corners of an image. You still see a normal photo. Someone scrolling past should not notice anything was added.
 
 That is the idea of **BPCS** (Bit-Plane Complexity Segmentation): busy, speckled patches in an image already look like static to the eye. The program slips your data into those patches and leaves the smooth, meaningful parts alone.
 
